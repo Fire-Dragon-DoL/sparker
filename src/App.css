@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.Editor {
+  margin: 10px auto;
+  max-width: 600px;
+}
+
+.Output {
+  text-align: left;
+  margin: 10px auto;
+  max-width: 600px;
+}
